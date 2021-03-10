@@ -1,7 +1,7 @@
 {
     "name": "job Finder",
     "short_name": "job_finder",
-    "start_url": "https://mryaomink.github.io/yaojob/",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
